@@ -15,6 +15,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddpd&show_icons=true&locale=en" alt="ddpd" /></p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddpd&exclude_repo=Brainfuck)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddpd&" alt="ddpd" /></p>
 
 
