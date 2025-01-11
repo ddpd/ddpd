@@ -21,10 +21,12 @@
 --->
 
 
-<p><img alt="Stats" src="https://my-readme-five.vercel.app/api?username=ddpd&count_private=true&show_icons=true&show_icons=true&theme=merko" /> </p>
+<p><img alt="Stats" src="https://my-readme-five.vercel.app/api?username=ddpd&count_private=true&show_icons=true&theme=merko" /> </p>
 
+
+<!---fssssss
 <p><img align="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=ddpd&theme=merko" alt="ddpd" /></p>
-
+--->
 
 
 
