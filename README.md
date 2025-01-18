@@ -27,7 +27,7 @@
     <img height="200" align="center" src="https://my-readme-five.vercel.app/api?username=ddpd&count_private=true&show_icons=true&theme=merko" />
   </a>
   <a href="https://github.com/ddpd">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddpd&layout=compact&langs_count=8&theme=merko&card_width=320&exclude_repo=Brainfuck_examples" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddpd&layout=compact&langs_count=8&theme=merko&exclude_repo=Brainfuck_examples" />
   </a>
 </div>
 
