@@ -13,15 +13,7 @@
 </p>
 
 
-
-<!---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
---->
-
-
-
+<!---github-readme-stats.vercel.app--->
 <div align="center">
   <a href="https://github.com/ddpd">
     <img height="200" align="center" src="https://my-readme-five.vercel.app/api?username=ddpd&count_private=true&show_icons=true&theme=merko" />
@@ -33,11 +25,16 @@
 
 
 
+
+<!---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+--->
+
 <!---
 - ⚡ Fun fact **I think I am funny**
 --->
-
-
 
 <!---
 ddpd/ddpd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
